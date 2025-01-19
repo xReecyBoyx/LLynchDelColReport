@@ -1,0 +1,3 @@
+This is a basic file for a LLynch Fleet Management report for the day, it is a basic & introductory project in HTML / CSS & Javascript development.
+The purpose of this project is to read an array of objects (that in real-life scenario would be pulled via API) & display them on a client-side web browser.
+The array of objects contains information on Plant Machinery due to be collected & delivered on the day.
